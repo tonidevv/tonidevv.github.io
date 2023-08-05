@@ -1,3 +1,9 @@
+@media screen and (min-width: 80rem) {
+	.container {
+	  margin: 1em 2em;
+	}
+  }
+  
 body {
 	background-color: rgb(0, 0, 0);
 	font-size: 16px;
