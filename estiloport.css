@@ -1,0 +1,125 @@
+body {
+	background-color: rgb(0, 0, 0);
+	font-size: 16px;
+	margin-right: 5em;
+    	 margin-left: 5em;
+    	 margin-top: 5em;
+    	 font-family: 'Anuphan', sans-serif;
+    	 color:white;
+
+}
+header {
+	margin:0px;
+	background-color:rgb(97, 1, 62);
+	color:white;
+	text-align: center;
+	 }
+	 ul {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px; 
+}
+	 a:link {
+  text-decoration: none;
+  	color:white;
+	}
+
+	a:visited {
+  	text-decoration: none;
+  	color:white
+	}
+
+	a:hover {
+  	text-decoration: underline;
+  	color:white
+	}
+
+	a:active {
+  text-decoration: underline;
+  color:white
+	}
+	h1 {
+
+    text-align: center;
+    font-size: 4.5em;
+    
+	}
+	h1:hover{
+		background-color: rgb(97, 1, 62);
+		transition: background-color 0.5s ease-out 1ms;
+	}
+	h4 { 
+		color: rgb(97, 1, 62)
+	}
+	.lgknown{
+		padding-left:300px;
+	}
+	.imgg{
+		width:120px;
+		height:120px;
+	}
+	#idINNECESARIOSQUEPUSEPARACUMPLIRCONLACONSIGNA{
+		text-decoration: underline rgb(97, 1, 62);
+	}
+	#idINNECESARIOSQUEPUSEPARACUMPLIRCONLACONSIGNA2:hover{
+		background-color: rgb(97, 1, 62);
+		transition: background-color 0.5s ease-out 1ms;
+	}
+	
+	h2{
+		text-align: center;
+	}
+
+		.float-parent-element{
+			width: 100%;
+			height: 45em;
+		}
+		.float-child-element { 
+    float: left; 
+    width: 50%; 
+   
+  }
+	.WhoAmI{
+		margin-left: 1em;
+
+    	 font-size: 2em;
+    	 text-align: justify;
+    	}
+
+   	.Style{
+   		margin-left: 1em;
+    	 font-size: 2em;
+    	 text-align: justify;
+    	}
+
+    .projects-parent-element{
+			width: 100%;
+		}
+		.projects-child-element { 
+    float: left; 
+    width: 50%;
+     }
+
+	.finished{
+		margin-left: 1em;
+
+    	 font-size: 2em;
+    	 border-radius: 10px;
+    	}
+   	
+   	.in-work{
+   		margin-left: 1em;
+   		
+    	 font-size: 2em;
+    	}
+
+h3{
+	text-align: center;
+	font-size: 3em;
+	color:rgb(97, 1, 62);
+}
+
+   
